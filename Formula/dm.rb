@@ -1,8 +1,8 @@
 class Dm < Formula
   desc "Dotfiles manager that syncs a mirrored HOME directory"
   homepage "https://github.com/lanjoni/dm"
-  url "https://github.com/lanjoni/dm/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "67126c575283416e1be259376560e949ab40bfe73613f7f90e0939ad51f6c880"
+  url "https://github.com/lanjoni/dm/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "25e0766cafc9808d6b21c714f6f5acefce8d48e3339f1d34ffa5b2e53457bede"
   license "Unlicense"
   head "https://github.com/lanjoni/dm.git", branch: "main"
 
